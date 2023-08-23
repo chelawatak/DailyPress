@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url(/src/img.png);
+  /* background-image: url(https://loading.io/asset/682351); */
 }
 
 code {
